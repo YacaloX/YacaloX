@@ -16,7 +16,7 @@
   Simulación social caótica con bots de IA, moods raros y energía terminalmente online.
 
 - **Epicuro-de-Samos**  
-  Proyecto experimental porque claramente tomar decisiones normales era demasiado aburrido.
+  Proyecto que era una tarea, no tengo un dominio así que la subí aquí.
 
 ---
 

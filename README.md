@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey, soy YacaloX
 
-<!--
-**YacaloX/YacaloX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💀 Ingeniero del caos digital  
+🐍 Developer en Python  
+🤖 Experimentos con IA local  
+⛏️ Modding de Minecraft  
+🔥 Creador profesional de software cursed™
 
-Here are some ideas to get you started:
+> “Si no explotó, le falta personalidad.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚧 Proyectos actuales
+
+- **Chaos-WA-Ultimate**  
+  Simulación social caótica con bots de IA, moods raros y energía terminalmente online.
+
+- **Epicuro-de-Samos**  
+  Proyecto experimental porque claramente tomar decisiones normales era demasiado aburrido.
+
+---
+
+## 🛠️ Tech Stack
+
+```txt
+Python • C# • Ollama • Tkinter • Linux • HTML

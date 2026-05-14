@@ -3,10 +3,10 @@
 💀 Ingeniero del caos digital  
 🐍 Developer en Python  
 🤖 Experimentos con IA local  
-⛏️ Modding de Minecraft  
+⛏️ Creador de Demos de Movimiento en C#  
 🔥 Creador profesional de software cursed™
 
-> “Si no explotó, le falta personalidad.”
+> “Si explota, es parte del Workflow, confía.”
 
 ---
 

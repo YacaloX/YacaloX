@@ -15,8 +15,8 @@
 - **Chaos-WA-Ultimate**  
   Simulación social caótica con bots de IA, moods raros y energía terminalmente online.
 
-- **Epicuro-de-Samos**  
-  Proyecto originalmente hecho para una tarea… terminó viviendo en GitHub porque no tengo dominio
+- **SmartFocus**  
+  Proyecto en C# para una app simple que trae ventanas al frente... lo unico malo es que no funciona
 
 ---
 

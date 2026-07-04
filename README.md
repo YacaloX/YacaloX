@@ -5,6 +5,7 @@
 🤖 Experimentos con IA local  
 ⛏️ Creador de Demos de Movimiento en C#  
 🔥 Creador profesional de software cursed™
+💥 Quemador profesional de chips ATMega328P
 
 > “Si explota, es parte del Workflow, confía.”
 
@@ -18,9 +19,12 @@
 - **SmartFocus**  
   Proyecto en C# para una app simple que trae ventanas al frente... lo unico malo es que no funciona
 
+- **Robotic-Arm-Control**
+  App Python + Arduino que permite mover un brazo robotico (Gracias a mi papá por el hardware :D)
+
 ---
 
 ## 🛠️ Tech Stack
 
 ```txt
-Python • C# • Ollama • Tkinter • Linux • HTML
+Python • C# • Ollama • Tkinter • Linux • HTML • Arduino • C++

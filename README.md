@@ -1,30 +1,64 @@
 # 👋 Hey, soy YacaloX
 
-💀 Ingeniero del caos digital  
-🐍 Developer en Python  
-🤖 Experimentos con IA local  
-⛏️ Creador de Demos de Movimiento en C#  
+💀 Ingeniero del caos digital
+🐍 Desarrollador en Python y C#
+🤖 Experimentos con IA local
+🦾 Desarrollo de software para robótica y sistemas embebidos
 🔥 Creador profesional de software cursed™
 💥 Quemador profesional de chips ATMega328P
 
-> “Si explota, es parte del Workflow, confía.”
+> *"Si explota, es parte del workflow. Confía."*
 
 ---
 
-## 🚧 Proyectos actuales
+## 🚀 Proyectos destacados
 
-- **Chaos-WA-Ultimate**  
-  Simulación social caótica con bots de IA, moods raros y energía terminalmente online.
+### 🤖 Robotic-Arm-Control
 
-- **SmartFocus**  
-  Proyecto en C# para una app simple que trae ventanas al frente... lo unico malo es que no funciona
+Control de un brazo robótico de 6 DOF mediante ESP32, con:
 
-- **Robotic-Arm-Control**
-  App Python + Arduino que permite mover un brazo robotico (Gracias a mi papá por el hardware :D)
+* 🖥️ Aplicación de escritorio en Python (CustomTkinter)
+* 📡 Comunicación por USB Serial y Bluetooth
+* 📱 App Android complementaria
+* 🎮 Soporte para mando Xbox
+* 🎬 Grabación y reproducción de secuencias
+
+*Software y firmware desarrollados por mí. El hardware fue construido por Rafael Rojas Niño.*
+
+---
+
+### 🔍 SmartFocus *(En desarrollo)*
+
+Una herramienta para encontrar rápidamente aplicaciones, ventanas y archivos desde una única barra de búsqueda.
+
+> Actualmente funciona... a ratos. 😅
+
+---
+
+### 🤯 Chaos-WA-Ultimate
+
+Simulación social caótica con bots de IA, estados de ánimo impredecibles y una cantidad cuestionable de ideas.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ```txt
-Python • C# • Ollama • Tkinter • Linux • HTML • Arduino • C++
+Python • C# • C++ • ESP32 • Arduino • CustomTkinter
+Linux • Git • Ollama • HTML
+```
+
+---
+
+## 🎯 Me interesa
+
+* 🤖 Robótica
+* 🧠 Inteligencia Artificial local
+* ⚡ Automatización
+* 🐧 Linux
+* 🛠️ Herramientas de productividad
+* 🚀 Proyectos Open Source
+
+---
+
+*"Convirtiendo ideas ligeramente absurdas en software que, sorprendentemente, funciona."*

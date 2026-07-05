@@ -13,6 +13,21 @@
 
 ## 🚀 Proyectos destacados
 
+### 💾 Disk Galaxy *(En desarrollo)*
+
+Un explorador de archivos moderno con una interfaz visual enfocada en hacer más interesante la navegación por el sistema.
+
+Actualmente incluye (o está desarrollando):
+
+* 🌌 Visualización de archivos y carpetas mediante nodos
+* 🗂️ Navegación rápida entre directorios
+* 🪟 Interfaz moderna basada en escenas
+* ⚡ Alto rendimiento con C# y .NET
+* 🔌 Arquitectura modular y extensible
+* 🚀 Proyecto completamente Open Source
+
+> Porque navegar entre archivos no debería sentirse como usar software de 2009.
+
 ### 🤖 Robotic-Arm-Control
 
 Control de un brazo robótico de 6 DOF mediante ESP32, con:
